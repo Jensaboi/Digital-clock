@@ -1,0 +1,19 @@
+*,
+*::before,
+*::after{
+  box-sizing: border-box;
+}
+
+.clock{
+  text-align: center;
+  color: red;
+  font-size: 7rem;
+  font-weight: 700;
+}
+
+body{
+  margin: 0;
+  padding: 0;
+  user-select: none;
+  background-color: rgb(19, 19, 19);
+}
